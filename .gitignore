@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log*
+
+#dist folder
+target
+
+# IDEA/Webstorm project files
+.idea
+*.iml
+
+# Mac files
+.DS_Store
